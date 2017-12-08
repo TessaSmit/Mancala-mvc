@@ -1,0 +1,124 @@
+p  {text-align:left}
+ul {list-style-type:none;}
+a  {text-decoration: none; background:none; color:black}
+h1 {color:#559988;
+			margin:3%;}
+
+		
+body{
+		font-family: verdana;
+		padding: 0px 20px 0px 100px;
+		background: radial-gradient(circle, #455B55, #455B55, #455B55);
+		}
+.Theme 
+{
+	padding:1em;
+}
+		
+.boardOptions 
+		{
+			background-color:none;
+			padding: 1em;
+			padding-left: 1cm;
+			padding-bottom: 4cm;
+
+		}
+.OptionText
+		{
+			border-radius: 80px;
+			background-color:#668896;
+			padding:1em;
+			padding-left: 40px;
+			color:#492A00;
+			font-weight:bold;
+		}
+.boardpart 
+		{
+			display:flex;
+			padding-right: 20px;
+		}
+		
+.board
+		{
+			display:flex;
+			margin-top:8%;
+			border-radius: 80px;
+			box-shadow: inset 0px 0px 20px 0px #4A3519;
+			background-color:#A7793D;
+			padding: 1em;
+			height: 160px;
+			width: 1010px;
+			padding-left: 30px;
+			padding-bottom: 4cm;
+			padding-top: 1cm;
+		}
+.Holes
+{
+	display:flex;
+	padding-right: 20px;
+}
+.Holes li
+{
+	margin: 2%
+	background: #A7793D;
+	box-shadow: inset 0px 0px 22px 0px #4A3519;
+	padding: 3em;
+	border-radius:20%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	color:#132239;
+	font-weight:bold;
+}
+
+.HolesHover li:hover
+{
+	background-color:#668896;
+	
+}
+
+.HolesHover
+{
+	display:flex;
+	padding-right: 20px;
+}
+.HolesHover li
+{
+	margin: 2%
+	background: #A7793D;
+	box-shadow: inset 0px 0px 22px 0px #4A3519;
+	padding: 3em;
+	border-radius:20%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	color:#132239;
+	font-weight:bold;
+}
+
+
+.Kalaha
+{
+	background: #7C390A;
+	box-shadow: inset 0px 0px 22px 0px #4A3519;
+	height: 100px;
+	width: 70px;
+	margin-left: 2.2%;
+	margin-right: 1.9%;
+	padding:1.8em;
+	padding-top: 4cm;
+	padding-left: 1cm;
+	padding-right: 1cm;
+	border-radius: 30px;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	color:#132239;
+	font-weight:bold;
+}
+
+.KalahaValue
+{	
+	position:absolute;
+	color:white;
+	font-weight:bold;
+	font-size:30px
+}
+
